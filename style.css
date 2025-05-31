@@ -1,0 +1,12 @@
+.logo {
+    padding: 20px;
+}
+
+.navs {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    padding: 5px;
+    position: fixed;
+    top: 0;
+}
